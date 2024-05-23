@@ -8,5 +8,8 @@
   <a href="https://t.me/bogdasha03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="" target="_blank">
+    <img src="https://icons8.ru/icons/set/вконтакте--static--magenta" height="25" width="101" alt="telegram logo"  />
+  </a>
   
 </div>
