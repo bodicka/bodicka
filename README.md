@@ -12,8 +12,14 @@
     <img src="https://github.com/user-attachments/assets/a87798e2-5cab-4570-9a88-14d772a23a49" height="25" alt="vk logo" />
   </a>
   <h3 align="left">👨‍💻 About Me</h3>
-  <p align="left"> Frontend Developer focused on building modern web applications with <b>React, Next.js and TypeScript</b>.<br> I also work with <b>REST APIs, Backend, databases and authentication</b>, building full-      stack projects from idea to implementation.<br> Currently growing towards <b>Frontend / Full-stack development</b> and looking for opportunities to gain commercial experience. 
- </p>
+  <p align="left"> I'm a Frontend Developer focused on building modern web applications with <b>React, Next.js and TypeScript</b>.<br><br>
+
+  I enjoy building applications from the ground up — from responsive user interfaces and state management to <b>REST APIs, authentication, server-side logic and databases</b>.<br><br>
+    
+  I have hands-on experience with both <b>Frontend and Backend</b> technologies and use tools such as <b>Git, GitHub, Postman and Vercel</b> in my development workflow.<br><br>
+
+  Currently, I'm developing my skills in <b>Frontend / Full-stack development</b>, focusing on writing clean, maintainable code and building real-world projects.
+  </p>
 </div>
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
