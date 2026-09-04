@@ -20,23 +20,7 @@
 </p>
 <h3 align="left">🛠 Technologies:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/14b19eba-3d5e-4068-8e55-d8921c39be83" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-   <img src="https://icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" height="40" alt="redux-logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-
-  ### 🎨 Frontend
-
+### 🎨 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
@@ -46,44 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS"/>
 </p>
-
-**React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS**
-
-**State Management:**
-
-- Redux Toolkit
-- RTK Query
-- Zustand
-- TanStack Query
-
-**Forms & Validation:**
-
-- React Hook Form
-- Zod
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" alt="Express"/>
-</p>
-
-**Node.js • Express • REST API**
-
-Также работаю с серверными возможностями **Next.js**, Server Actions и API Routes.
-
----
-
-### 🗄️ Базы данных
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-</p>
-
-**MongoDB • Mongoose • PostgreSQL • Prisma**
 
 
 
