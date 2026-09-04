@@ -37,7 +37,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node-Js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70" alt="Node-Js"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" height="50" alt="Express"/>
 </p>
 
