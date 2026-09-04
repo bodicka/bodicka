@@ -12,7 +12,8 @@
     <img src="https://github.com/user-attachments/assets/a87798e2-5cab-4570-9a88-14d772a23a49" height="25" alt="vk logo" />
   </a>
   <h3 align="left">👩‍💻  Обо мне</h3>
-  <p align="left">Я Frontend-разработчик, специализирующийся на создании современных веб-приложений. Основной стек — <b>React, Next.js и TypeScript</b>. <br><br> В своих проектах работаю не только с интерфейсом, но и с <b>Backend, REST API, базами данных и авторизацией</b>, поэтому понимаю весь путь разработки — от пользовательского интерфейса до серверной логики. <br><br> Люблю разбираться в новых технологиях, самостоятельно доводить проекты до рабочего состояния и постоянно улучшать качество своего кода. Сейчас развиваюсь в направлении <b>Frontend / Full-stack разработки</b> и ищу возможность применить свои навыки в коммерческой разработке.
+  <p align="left"> Frontend Developer focused on building modern web applications with <b>React, Next.js and TypeScript</b>.<br> I also work with <b>REST APIs, Backend, databases and authentication</b>, building full-      stack projects from idea to implementation.<br> Currently growing towards <b>Frontend / Full-stack development</b> and looking for opportunities to gain commercial experience. 
+ </p>
 </div>
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
