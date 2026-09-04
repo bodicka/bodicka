@@ -18,8 +18,6 @@
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-<h3 align="left">🛠 Technologies:</h3>
-<div align="left">
 <h3 align="left">🛠 Technologies</h3>
 
 🎨 Frontend
