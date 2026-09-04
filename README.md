@@ -11,14 +11,14 @@
   <a href="https://vk.com/bodyyyyyy" target="_bla">
     <img src="https://github.com/user-attachments/assets/a87798e2-5cab-4570-9a88-14d772a23a49" height="25" alt="vk logo" />
   </a>
-  <h3 align="left">👩‍💻  Обо мне</h3>
+  <h3 align="left">👩‍💻 About Me</h3>
   <p align="left"> Frontend Developer focused on building modern web applications with <b>React, Next.js and TypeScript</b>.<br> I also work with <b>REST APIs, Backend, databases and authentication</b>, building full-      stack projects from idea to implementation.<br> Currently growing towards <b>Frontend / Full-stack development</b> and looking for opportunities to gain commercial experience. 
  </p>
 </div>
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
