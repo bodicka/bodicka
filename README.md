@@ -11,7 +11,7 @@
   <a href="https://vk.com/bodyyyyyy" target="_bla">
     <img src="https://github.com/user-attachments/assets/a87798e2-5cab-4570-9a88-14d772a23a49" height="25" alt="vk logo" />
   </a>
-  <h3 align="left">👩‍💻 About Me</h3>
+  <h3 align="left">👨‍💻 About Me</h3>
   <p align="left"> Frontend Developer focused on building modern web applications with <b>React, Next.js and TypeScript</b>.<br> I also work with <b>REST APIs, Backend, databases and authentication</b>, building full-      stack projects from idea to implementation.<br> Currently growing towards <b>Frontend / Full-stack development</b> and looking for opportunities to gain commercial experience. 
  </p>
 </div>
@@ -20,34 +20,23 @@
 </p>
 <h3 align="left">🛠 Technologies:</h3>
 <div align="left">
+<h3 align="left">🛠 Technologies</h3>
 
-### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" alt="SCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="50" alt="Zustand"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="50" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS"/>
-</p>
+🎨 Frontend
 
-### ⚙️ Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70" alt="Node-Js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" height="70" alt="Express"/>
-</p>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" alt="SCSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="50" alt="Zustand"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="50" alt="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS"/> </p>
 
-### 🗄️ Databases and ORM
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="70" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="70" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="70" alt="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="70" alt="Mongose"/>
-</p>
+⚙️ Backend
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="70" alt="Express"/> </p>
+
+🗄️ Databases & ORM
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="70" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="70" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="70" alt="Prisma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="70" alt="Mongoose"/> </p>
+
+🔧 Tools
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="GitHub"/> </p>
 
 
 
