@@ -13,16 +13,11 @@
   </a>
   <h3 align="left">👨‍💻 About Me</h3>
   <p align="left"> Frontend Developer focused on building modern and scalable web applications with <b>React, Next.js and TypeScript</b>.<br><br>
-
-I have experience working with <b>JavaScript, HTML, CSS, SCSS, Tailwind CSS</b> and modern state management solutions such as <b>Redux Toolkit and Zustand</b>.<br><br>
-
-I also work with the backend side of applications using <b>Node.js, Express, REST APIs</b> and authentication solutions. I have hands-on experience with <b>PostgreSQL, MongoDB, Prisma and Mongoose</b>, allowing me to build full-stack applications from the frontend to the database.<br><br>
-
-In my projects, I work with <b>Git, GitHub, Postman and Vercel</b>, implement authentication, API integrations, CRUD operations, server-side logic and third-party services.<br><br>
-
-Currently, I am focused on improving my <b>Frontend / Full-stack development</b> skills, writing cleaner and more maintainable code, and looking for an opportunity to gain commercial development experience.
-
-</p>
+    I have experience working with <b>JavaScript, HTML, CSS, SCSS, Tailwind CSS</b> and modern state management solutions such as <b>Redux Toolkit and Zustand</b>.<br><br>
+    I also work with the backend side of applications using <b>Node.js, Express, REST APIs</b> and authentication solutions. I have hands-on experience with <b>PostgreSQL, MongoDB, Prisma and Mongoose</b>, allowing me       to build full-stack applications from the frontend to the database.<br><br>
+    In my projects, I work with <b>Git, GitHub, Postman and Vercel</b>, implement authentication, API integrations, CRUD operations, server-side logic and third-party services.<br><br>
+    Currently, I am focused on improving my <b>Frontend / Full-stack development</b> skills, writing cleaner and more maintainable code, and looking for an opportunity to gain commercial development experience.
+  </p>
 </div>
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
