@@ -20,7 +20,8 @@
 </p>
 <h3 align="left">🛠 Technologies:</h3>
 <div align="left">
-### 🎨 Frontend
+
+  ### 🎨 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
